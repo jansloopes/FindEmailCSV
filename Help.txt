@@ -1,0 +1,25 @@
+Welcome to the Help Section
+
+   This application allows you to:
+   1. search for unique mail addresses in a comma or semicolun spererated csv file 
+   2. check the sha256 of the csv file
+   3. save the results in a file
+
+   [Open CSV file and find email addresses]
+   This section describes how to perform searches for mail addresses in a csv file.
+   Step 1: open the csv file. It should be a txt file with comma separation
+   Step 2: check the SHA256 
+   Step 3: Run the email search
+
+   [Generate Hash]
+   This section describes how to perform Task G
+   Step 1: After opening the csv file the SHA256 can be checked.
+   Step 2: check the sha256 button
+
+   [Save results]
+   This section describes how to perform Save Results.
+   Step 1: Select location and name of result file
+   
+
+   [Contact]
+   Jan Hellings Jan@famhellings.nl verson 0.1 12/06/2024
