@@ -13,4 +13,10 @@ Save them in the same directory
 
 FindEmailCSV.exe
 
+## prerequisite
 
+Windows 11 or 10? 
+10 Mbyte of free space
+
+## Download
+https://github.com/jansloopes/FindEmailCSV/releases/tag/V0.1
